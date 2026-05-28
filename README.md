@@ -1,10 +1,10 @@
 ## Oii! eu sou o rdu👋
 
-### Sobre... ☀️
+## Sobre...☀️
 Sou um entusiasta de programação, artes, música e desenvolvimento de jogos que tá tentando aprender alguma coisa.
 Gosto de qualquer tipo de expressão criativa e penso que o mundo seria um lugar melhor se todos conseguissem entender que as coisas não precisam ser belas para fazerem sentido.
 
-## Focando no momento↩️
+### Focando no momento↩️
 Nessa etapa da minha vida estou muito interessado em desenho tradicional, mas gostaria de praticar mais de forma digital também. Inclusive, estou no processo inicial da produção
 de uma HQ apenas para tentar melhorar minhas habilidades pra fazer projetos melhores no futuro.
 De vez enquando faço algumas músicas no FL Studio e estou praticando tocar algumas músicas que gosto direto no teclado. Foco em músicas de jogos ou OSTs em geral.
