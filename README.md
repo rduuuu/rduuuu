@@ -1,4 +1,21 @@
-## Hi there 👋
+## Oii! eu sou o rdu👋
+
+### Sobre...
+Sou um entusiasta de programação, artes, música e desenvolvimento de jogos que tá tentando aprender alguma coisa.
+Gosto de qualquer tipo de expressão criativa e penso que o mundo seria um lugar melhor se todos conseguissem entender que as coisas não precisam ser belas para fazerem sentido.
+
+## Focando no momento
+Nessa etapa da minha vida estou muito interessado em desenho tradicional, mas gostaria de praticar mais de forma sigital também. Inclusive, estou no processo inicial da prosução
+de uma HQ apenas para tentar melhorar minhas habilidades pra fazer projetos melhores no futuro.
+De vez enquando faço algumas músicas no FL Studio e estou praticando tocar algumas músicas que gosto direto no teclado. Foco em músicas de jogos ou OSTs em geral.
+Eu também gosto de programar algumas coisas, mas confesso que estou mais ligado em áreas criativas. Meu git tem majoritariamente arquivos de programação, pois posto aqui tudo que estou aprendendo em minhas aulas pra compartilhar com o professor...
+
+### Por fora das merrecas...
+Fora tudo isso, sou uma pessoa que gosta muito de interagir com os meus semelhantes. Vejo animes, cartoons antigos e quando sobra tempo vejo algum filme ou começo alguma série que eu eteja afim.
+Gosto de jogar jogos também, sempre prefiro jogos indie, por serem sempre mais diferentes e inovadores (e bem mais baratos).
+Não gosto de ler, mas leio algumas vezes (gosto mais de escrever histórias do que lêlas). Gosto muito do gênero de ficção científica.
+
+#### Fechô galera!
 
 <!--
 **rduuuu/rduuuu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
